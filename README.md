@@ -60,6 +60,20 @@ You need the following Azure Services deployed, and their keys:
     - Choose Python 3.1xx.x
 - Press the button "Run All"  
 
+## Experimenting
+
+After the first execution you are free to run the last cell of the Notebook that starts with:
+```log
+# Demo the a query with the corpus and without the corpus
+```
+You can change the question on that cell
+```
+query_with_corpus("Describe characteristics of an iMac G3?")
+```
+
+## If you run the whole notebook multiple times
+There is not logic yet to drop or update the indexes, go to your Azure AI search and drop the indexes manually if you see erratic behaviour.
+
 
 
 
