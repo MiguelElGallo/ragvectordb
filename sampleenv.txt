@@ -1,0 +1,10 @@
+openai.api_type = "azure"
+AZURE_OPENAI_ENDPOINT= "https://yourAIservice.openai.azure.com/"
+openai.api_version = "2023-07-01-preview"
+AZURE_OPENAI_API_KEY = "yourkey"
+AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT = https:/yourDOCUIservice.cognitiveservices.azure.com/
+AZURE_DOCUMENT_INTELLIGENCE_KEY = "yourkey"
+ada = "the name of your ada deployment"
+gpt4 = "the name of your gpt432k deployment"
+AZURE_SEARCH_ENDPOINT =  https://yoursearchservice.search.windows.net
+AZURE_SEARCH_ADMIN_KEY = yourkey
