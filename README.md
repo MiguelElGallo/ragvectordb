@@ -54,8 +54,12 @@ You need the following Azure Services deployed, and their keys:
 - Start github codespaces [Open in Codespaces](https://codespaces.new/MiguelElGallo/ragvectordb)
 - Rename file sampleenv.txt to .env
   - Update the URLs and keys of your azure services
-- Open the folder Jupyter, and there open Notebook corpus.ipynb
-- Press the button "Run All" 
+- Open the folder Notebooks, and there open Notebook corpus.ipynb
+- On the upper right press "Select Kernel"
+  - Choose Python enviroments
+    - Choose Python 3.1xx.x
+- Press the button "Run All"  
+
 
 
 
