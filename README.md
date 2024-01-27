@@ -51,6 +51,9 @@ You need the following Azure Services deployed, and their keys:
   - Model gpt-4-32k deployed (older may work not test)
 
 ## How to run
-Start github codespaces
+- Start github codespaces [Open in Codespaces](https://codespaces.new/MiguelElGallo/ragvectordb)
+- Rename file sampleenv.txt to .env
+  - Update the URLs and keys of your azure services
+- Open the folder Jupyter, and there open Notebook
 
 
